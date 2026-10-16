@@ -10,7 +10,6 @@ function getComputerChoice() {
   }
 }
 
-console.log(getComputerChoice()); // run it a few times to test
 
 function getHumanChoice() {
   return prompt("Rock, paper, or scissors?");
